@@ -129,13 +129,48 @@ Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa 
 <details>
   <summary>Click to expand</summary>
   <details>
-    <summary>Q1: Woosongda qanday qilib GPA 4.5 qilsam bo'ladi?</summary>
-    **A1**: O'qing. Ishga ko'p berilmang. Maqsadingizga bir qarab quying. 
+    <summary>Q1: Motivatsiyam pasayib ketgan bo‘lsa, nima qilishim kerak?</summary>
+    **A1**: Coming sooon... 
   </details>
 
   <details>
-    <summary>Q2: O'qishga motivatsiyam tushib ketyapti. Nima qilsam bo'ladi</summary>
-    **A2**: ...
+    <summary>Q2: Darslarga moslashish qiyin bo‘lsa, qanday yo‘l tutish kerak?</summary>
+    **A2**: Coming sooon...
+  </details>
+
+  <details>
+    <summary>Q3: GPA qanday qilib yaxshilash mumkin?</summary>
+    **A3**: Coming sooon... 
+  </details>
+
+  <details>
+    <summary>Q4: Internship topishning eng samarali usullari qanday?</summary>
+    **A4**: Coming sooon...
+  </details>
+
+  <details>
+    <summary>Q5: Portfolio va CV tayyorlash uchun qanday resurslardan foydalanish kerak?</summary>
+    **A5**: Coming sooon...
+  </details>
+
+  <details>
+    <summary>Q6: Koreyada o‘qish davomida qanday qilib yaxshi networking qilish mumkin?</summary>
+    **A6**: Coming sooon... 
+  </details>
+
+  <details>
+    <summary>Q7: Dasturlashni qayerdan boshlash kerak?</summary>
+    **A7**: Coming sooon...
+  </details>
+
+  <details>
+    <summary>Q8: O‘qish va ishlashni qanday muvozanatlash mumkin?</summary>
+    **A8**: Coming sooon... 
+  </details>
+
+  <details>
+    <summary>Q9: Tezis yoki loyiha ustida qanday samarali ishlash kerak?</summary>
+    **A9**: Coming sooon...
   </details>
 
   <!-- Namuna 
