@@ -28,41 +28,42 @@ Qanday ko'rinishda qilsak, o'qishga oson bo'ladi? Bir faraz qilaylikchi.
 Har bir fan, o'zini syllabusi, maslahati, taluqli kitob, online kurs va imtihon sifat mashq. Masalan bunday yoki unday vazifa (proyektlar)
 Qo'shimcha kurslar, masalan Git bilan ishlash, OOP fanlari, yoki C yoki C++, yoki Interpreneurship, System Design, ML yoki backend yoki front-endga oid.
 
-
-# Birinchi Yili
+## Bachalers
+### Birinchi Yili
 Qo'yidagi fanlarni olishga harakat qil:
 1) Programming language, algorithms, Introduction to Computing systems, Linear Algebra
 
-# Ikkinchi Yili:
+### Ikkinchi Yili:
 1) OOP,
 2) Databases
 3) Computer Networks
 4) Computer Security
 
-# Uchinchi semester
+### Uchinchi semester
 1) Final capstone project
 2) Deep Learning yokki Machine Learning yoki Computer Vision yoki NLP (agar qiziqsa)
-3) CLoud computing
+3) Cloud computing
 4) Advanced Big Data
 
-# To'rtinchi yil
+### To'rtinchi yil
 1) Internship ( Co-op program)
 2) Universal 18 credits per semester (36 credits for 2 semesters)
 
 
-# Magistrature: 
-## Birinchi yil
+<!-- TODO: Update this section -->
+## Magistrature: 
+### Birinchi yil
   Qaysi fan?
   Ish topshirish
   Ilm kamroq bo'lsa mustaxkamlash
   Bakalavrdagi fanlar yordan tegar
   
-## Ikkinchi yil
+### Ikkinchi yil
    Thesis qilish
    ?
 
 
-##Muvoffaqiyat siri
+## Muvoffaqiyat siri
 1) Ilm olish pok va halol yo‘l. Uni hurmat qiling, so‘rashdan tortinmang.
 2) Kitob o‘qish ibodatga o‘xshaydi. O‘z ustingizda ishlang.
 3) Doimiy harakat qiling. Agar tushunmasangiz, so‘rang, izlaning.
@@ -77,7 +78,7 @@ Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa 
 
 
 
-# FAQ
+## FAQ
 <details>
   <summary>Click to expand</summary>
     
@@ -136,9 +137,6 @@ Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa 
 </details>
 
 
-
-Reference: 
-https://github.com/ossu/computer-science
 
 
 
