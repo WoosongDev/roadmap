@@ -4,7 +4,7 @@
 ## Table of contents:
 - for bachalers
 - for masters
-- FAQ
+- FAQ.
 
 <!--
 Student toifasi:
