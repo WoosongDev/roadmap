@@ -17,10 +17,10 @@ Table of content (o'zbekcha qilish)
     - semester 4:
 
 Student toifasi:
-1) Maqsadingiz aniq, Code yozishni bilasiz, nimani o'rganishingizni ham bilasiz
-2) Maqsadi bor, code yozishni bilmaydi, matematika biladi, nimadan boshlashni tilmaydi
-3) Maqsadi bot, code yozishni va matematikani yaxshi bilmaydi. nimadan boshlashni bilmaydi
-4) Maqsadi noaniq, o'zini tanimagan, o'qishga endi kirib kelyotgan.
+1) Maqsadi aniq, kod yozishni biladi, nimani o‘rganishini ham biladi.
+2) Maqsadi bor, kod yozishni bilmaydi, lekin matematikani yaxshi biladi, nimadan boshlashni bilmaydi.
+3) Maqsadi bor, lekin kod yozish ham, matematika ham sust. Nimadan boshlashni bilmaydi.
+4) Maqsadi noaniq, hali o‘zini tanimagan, o‘qishga endi kirib kelgan.
 
 
 Birinchi toifadagi student uchun maslahat
@@ -109,13 +109,14 @@ Qo'yidagi fanlarni olishga harakat qil:
    ?
 
 
-NOTE:
-1) Agar qiziqqan fanlar olsangiz va ularni ko'proq o'gansangiz shunda ham final exam midterm yaxshi topshirasiz va u GPA yaxshi tasir qiliadi va scholarship yutishga yordam beradi.
-2) Ilm bu po va halol narsa, unga xurmatsizlik va befaqlik qilish talabaga yarashmaydi. Agar biror narsani yaxshi emas, chala o'rgansangiz, so'rang ( tushunmadim deng, biror misol berib so'rang, mard bo'ling, qo'rqmasdan so'rang, agar javob qoniqtirmasa, eng mashxur kitobdan o'qing. Kitob o'qish bu xuddi namoz o'qishday gap. Fikrni, tanani pok saqlagan xolda o'rganing. Axir bu fanlarni sizu bizga uxshagan odamlar qilgan va ular sizdan yoki mendan aqlli bo'lmagan. Siz ko'p narsaga qodirsiz.
-3) Maqsadingizni o'zingizga eslatib turing. Axir odamzon adashadi. Esdan chiqaradi
-4) Sizga 8 soat uyqu kerak emas Aslida. Aslida 6 yoki7 soat uxlasangiz ham bo'ladi.
-5) Ilm organyotganda hamisha aktiv o'rganing, yuring, velik xaydang, boks meshokini uring, aktiv uylang, baqiring, mulohaza qiliing, Bitta devorga boshish urildimi,internetdan yoki chatbotdan so'raman, unda ko'ra bir uylang
-6) 
+##Muvoffaqiyat siri
+1) Ilm olish pok va halol yo‘l. Uni hurmat qiling, so‘rashdan tortinmang.
+2) Kitob o‘qish ibodatga o‘xshaydi. O‘z ustingizda ishlang.
+3) Doimiy harakat qiling. Agar tushunmasangiz, so‘rang, izlaning.
+4) Maqsadingizni esdan chiqarmang. Har doim o‘z yo‘lingizni belgilab boring.
+5) Uyqu va vaqtni boshqaring. 6-7 soat uxlash yetarli.
+6) Faol o‘rganing. Harakat qilib, fikrlab, savollar berib o‘rganing.
+7) Portfolio va CV ustida ishlang. Bu sizning kelajakdagi muvaffaqiyatingiz kaliti.
 
 
 Portfolio qilishga yoki CV tayyorlashga.
