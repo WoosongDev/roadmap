@@ -128,6 +128,7 @@ Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa 
 # FAQ
 <details>
   <summary>Click to expand</summary>
+    
   <details>
     <summary>Q1: Motivatsiyam pasayib ketgan bo‘lsa, nima qilishim kerak?</summary>
     **A1 - Coming sooon... 
