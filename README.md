@@ -1,70 +1,23 @@
-# roadmap
-[[MANIFESTO]]() [Post viewed number] [Like numbers]
-Woosong Universitet davringizdan 99% unumli foydalanish
+# Woosong Universitet davringizdan 99% unumli foydalanish
+[[MANIFESTO]]() [[Post viewed number]]() [[Like numbers]]()
 
+## Table of contents:
+- for bachalers
+- for masters
+- FAQ
 
-Table of content (o'zbekcha qilish)
-
-- Bakalavr:
-    - Semester 1:
-    - Semester 2:
-    - ...
-    - Semester 8:
-- Magistratura:
-    - semester 1:
-    - semester 2:
-    - semester 3:
-    - semester 4:
-
+<!--
 Student toifasi:
 1) Maqsadi aniq, kod yozishni biladi, nimani o‘rganishini ham biladi.
 2) Maqsadi bor, kod yozishni bilmaydi, lekin matematikani yaxshi biladi, nimadan boshlashni bilmaydi.
 3) Maqsadi bor, lekin kod yozish ham, matematika ham sust. Nimadan boshlashni bilmaydi.
 4) Maqsadi noaniq, hali o‘zini tanimagan, o‘qishga endi kirib kelgan.
-
-
-Birinchi toifadagi student uchun maslahat
-
-<details>Ikkinchi toifadigai student uchun maslahat</details>
-
-Uchinchi toifadalar uchun
-
 Oxir to;;rtinchi va bu general odamlar uchun. Bu yozili kerakday bo'ldi. Masalan , back-end chi uchun nima, front-endchi uchun nima? ML uchun nimava xaqozo.
+-->
 
-Use table to show the courses and their columns
-Course name | Course syllabus | Relevant the best (mature) book | Online Course | Efford 2 hours a day?
-Fanlar ro'yxati (2025 yil tayyorlangan)
- - Introduction to Computing System
- - AI in Industry 4.0
- - Algorithm
- - Introduction to Data Analytics
- - Data Visualization
- - Introduction to Machine Learning
- - Deep Learning
- - Operating Systems
- - Autonomous Vehicle
- - Field Practice x4 ? (is it Co-op program or intership?)
- - Linear Algebra
- - Statistics
- - Data Structure
- - Freshman Capstone Project
- - Essential Mathematics for AI
- - SW Engineering
- - Computer Networks
- - Database
- - Big Data Platform
- - Web Analytics
- - Principles of Blockchain Technology
- - Advanced Big Data Tools
- - Cloud Platform
- - Natural Language Processing
- - Computer Vision
- - Capstone Project 1
- - Capstone Project 2
- - Information Security in Industry 4.0
- - Cognitive Science
- - AI in Digital Healthcare
- - Internship x4
+
+
+
 
 Mana bu semester bu fanni ol deyish sal xato bo'lishi mumkin axir baxorda yoki kuzda kelgan bolalarning biriinchi semesterlarida xar xil bo'ladi. Shunga bir pog'ona teparoq. 1 yil shuni olishga harakat qil, 2 yil bu, 3 yili nima qilish, 4 yili nima qilish.
 
@@ -118,8 +71,6 @@ Qo'yidagi fanlarni olishga harakat qil:
 6) Faol o‘rganing. Harakat qilib, fikrlab, savollar berib o‘rganing.
 7) Portfolio va CV ustida ishlang. Bu sizning kelajakdagi muvaffaqiyatingiz kaliti.
 
-
-Portfolio qilishga yoki CV tayyorlashga.
 
 Tabriklaymiz six Bakalavr yoki Magistratura equivalent darajada tamomladingiz! 
 Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa qo'shing. 
@@ -183,13 +134,6 @@ Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa 
   -->
   
 </details>
-
-
-
-Contributerlar ro'yxati: 
-- 
--
-- 
 
 
 
