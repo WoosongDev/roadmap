@@ -109,8 +109,16 @@ Qo'yidagi fanlarni olishga harakat qil:
 
 
 Tabriklaymiz six Bakalavr yoki Magistratura equivalent darajada tamomladingiz! 
-Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa qo'shing. 
+Faqat oldinga! Kuch birlikda! Fikringizni ulashing yoki uxshu qo'llanmaga xissa qo'shing.
 
+## Dars qilish uchun coffee shoplar
+1) 커피 상회 - 대전 동구 동대전로 200 자양동 197-6
+2) Coffeenie - Coffeenie 162, Dongdaejeon-ro, Dong-gu, Daejeon 
+3) Beanie Coffee - 대전 동구 동대전로 225 자양동 198-16
+4) 머물다가게 - 머물다가게 39, Dongdaejeon-ro 154beon-gil, Dong-gu, Daejeon
+
+- Koreada kofeni o'rtacha nrxi 5000KRW, va deyarli hamma coffee shoplarda kofe olishingiz shart!!!
+- Albatta Uyda ham dars qilishingiz mumkin :)
 
 
 ## FAQ
